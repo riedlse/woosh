@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.apache.http">
-    <module_version install_time="1388240880321" last="true" origin="installer" specification_version="1.0">
+    <module_version install_time="1388242885849" last="true" origin="installer" specification_version="1.0">
         <file crc="3768280761" name="config/Modules/org-apache-http.xml"/>
         <file crc="2972356658" name="modules/ext/org.apache.httpcomponents.httpclient_4.3.1.jar"/>
-        <file crc="1678486337" name="modules/org-apache-http.jar"/>
+        <file crc="1478523390" name="modules/org-apache-http.jar"/>
     </module_version>
 </module>

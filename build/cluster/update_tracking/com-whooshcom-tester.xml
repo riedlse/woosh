@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><module codename="com.whooshcom.tester">
-    <module_version install_time="1388240884725" last="true" origin="installer" specification_version="1.0">
-        <file crc="3391267670" name="config/Modules/com-whooshcom-tester.xml"/>
-        <file crc="3863005627" name="modules/com-whooshcom-tester.jar"/>
-    </module_version>
-</module>

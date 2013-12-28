@@ -1,7 +1,7 @@
 /Applications/NetBeans/NetBeans 7.4.app/Contents/Resources/NetBeans/platform=1388195445000
-cluster./Users/sriedl/NetBeansProjects/WooshComCSX1641/build/cluster=1388240884000
+cluster./Users/sriedl/NetBeansProjects/WooshComCSX1641/build/cluster=1388244647000
 cluster./Applications/NetBeans/NetBeans 7.4.app/Contents/Resources/NetBeans/platform=1388195445000
-user=1388240884000
-crc=7
+user=1388244647000
+crc=38
 locale=en_US
 branding=wooshcomcsx1641
