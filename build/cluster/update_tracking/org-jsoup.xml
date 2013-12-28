@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.jsoup">
+    <module_version install_time="1388240880834" last="true" origin="installer" specification_version="1.0">
+        <file crc="1143480543" name="config/Modules/org-jsoup.xml"/>
+        <file crc="4043405408" name="modules/ext/jsoup-1.7.3-javadoc.jar"/>
+        <file crc="756047557" name="modules/ext/jsoup-1.7.3-sources.jar"/>
+        <file crc="1734504448" name="modules/ext/jsoup-1.7.3.jar"/>
+        <file crc="1676956016" name="modules/org-jsoup.jar"/>
+    </module_version>
+</module>
