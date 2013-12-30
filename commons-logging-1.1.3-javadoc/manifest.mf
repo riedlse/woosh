@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+OpenIDE-Module: org.apache.logging
+OpenIDE-Module-Localizing-Bundle: org/apache/logging/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+

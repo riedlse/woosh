@@ -1,5 +1,5 @@
 -------------------------------------------------------------------------------
->Log Session: Sunday, December 29, 2013 4:32:00 PM EST
+>Log Session: Monday, December 30, 2013 8:33:19 AM EST
 >System Info: 
   Product Version         = WooshComCSX1641 201310111528
   Operating System        = Mac OS X version 10.9.1 running on x86_64
@@ -18,6 +18,7 @@
   Application Classpath   = /Applications/NetBeans/NetBeans 7.4.app/Contents/Resources/NetBeans/platform/lib/boot.jar:/Applications/NetBeans/NetBeans 7.4.app/Contents/Resources/NetBeans/platform/lib/org-openide-modules.jar:/Applications/NetBeans/NetBeans 7.4.app/Contents/Resources/NetBeans/platform/lib/org-openide-util-lookup.jar:/Applications/NetBeans/NetBeans 7.4.app/Contents/Resources/NetBeans/platform/lib/org-openide-util.jar:/Applications/NetBeans/NetBeans 7.4.app/Contents/Resources/NetBeans/platform/lib/locale/boot_ja.jar:/Applications/NetBeans/NetBeans 7.4.app/Contents/Resources/NetBeans/platform/lib/locale/boot_pt_BR.jar:/Applications/NetBeans/NetBeans 7.4.app/Contents/Resources/NetBeans/platform/lib/locale/boot_ru.jar:/Applications/NetBeans/NetBeans 7.4.app/Contents/Resources/NetBeans/platform/lib/locale/boot_zh_CN.jar:/Applications/NetBeans/NetBeans 7.4.app/Contents/Resources/NetBeans/platform/lib/locale/org-openide-modules_ja.jar:/Applications/NetBeans/NetBeans 7.4.app/Contents/Resources/NetBeans/platform/lib/locale/org-openide-modules_pt_BR.jar:/Applications/NetBeans/NetBeans 7.4.app/Contents/Resources/NetBeans/platform/lib/locale/org-openide-modules_ru.jar:/Applications/NetBeans/NetBeans 7.4.app/Contents/Resources/NetBeans/platform/lib/locale/org-openide-modules_zh_CN.jar:/Applications/NetBeans/NetBeans 7.4.app/Contents/Resources/NetBeans/platform/lib/locale/org-openide-util-lookup_ja.jar:/Applications/NetBeans/NetBeans 7.4.app/Contents/Resources/NetBeans/platform/lib/locale/org-openide-util-lookup_pt_BR.jar:/Applications/NetBeans/NetBeans 7.4.app/Contents/Resources/NetBeans/platform/lib/locale/org-openide-util-lookup_ru.jar:/Applications/NetBeans/NetBeans 7.4.app/Contents/Resources/NetBeans/platform/lib/locale/org-openide-util-lookup_zh_CN.jar:/Applications/NetBeans/NetBeans 7.4.app/Contents/Resources/NetBeans/platform/lib/locale/org-openide-util_ja.jar:/Applications/NetBeans/NetBeans 7.4.app/Contents/Resources/NetBeans/platform/lib/locale/org-openide-util_pt_BR.jar:/Applications/NetBeans/NetBeans 7.4.app/Contents/Resources/NetBeans/platform/lib/locale/org-openide-util_ru.jar:/Applications/NetBeans/NetBeans 7.4.app/Contents/Resources/NetBeans/platform/lib/locale/org-openide-util_zh_CN.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_45.jdk/Contents/Home/lib/dt.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_45.jdk/Contents/Home/lib/tools.jar
   Startup Classpath       = /Applications/NetBeans/NetBeans 7.4.app/Contents/Resources/NetBeans/platform/core/core.jar:/Applications/NetBeans/NetBeans 7.4.app/Contents/Resources/NetBeans/platform/core/org-openide-filesystems.jar:/Applications/NetBeans/NetBeans 7.4.app/Contents/Resources/NetBeans/platform/core/locale/core_ja.jar:/Applications/NetBeans/NetBeans 7.4.app/Contents/Resources/NetBeans/platform/core/locale/core_pt_BR.jar:/Applications/NetBeans/NetBeans 7.4.app/Contents/Resources/NetBeans/platform/core/locale/core_ru.jar:/Applications/NetBeans/NetBeans 7.4.app/Contents/Resources/NetBeans/platform/core/locale/core_zh_CN.jar:/Applications/NetBeans/NetBeans 7.4.app/Contents/Resources/NetBeans/platform/core/locale/org-openide-filesystems_ja.jar:/Applications/NetBeans/NetBeans 7.4.app/Contents/Resources/NetBeans/platform/core/locale/org-openide-filesystems_pt_BR.jar:/Applications/NetBeans/NetBeans 7.4.app/Contents/Resources/NetBeans/platform/core/locale/org-openide-filesystems_ru.jar:/Applications/NetBeans/NetBeans 7.4.app/Contents/Resources/NetBeans/platform/core/locale/org-openide-filesystems_zh_CN.jar:/Users/sriedl/NetBeansProjects/WooshComCSX1641/build/cluster/core/locale/core_wooshcomcsx1641.jar
 -------------------------------------------------------------------------------
+WARNING [org.netbeans.core.startup.NbEvents]: The extension /Users/sriedl/NetBeansProjects/WooshComCSX1641/build/cluster/modules/ext/commons-logging-1.1.3.jar may be multiply loaded by modules: [/Users/sriedl/NetBeansProjects/WooshComCSX1641/build/cluster/modules/org-apache-logging.jar, /Users/sriedl/NetBeansProjects/WooshComCSX1641/build/cluster/modules/org-apache-httpclient.jar]; see: http://www.netbeans.org/download/dev/javadoc/org-openide-modules/org/openide/modules/doc-files/classpath.html#class-path
 INFO [org.netbeans.core.startup.NbEvents]: Turning on modules:
 	org.openide.util.lookup [8.22.1 201310111528]
 	org.openide.util [8.33.2 201311191022]
@@ -69,8 +70,9 @@ INFO [org.netbeans.core.startup.NbEvents]: Turning on modules:
 	org.netbeans.core.multitabs [1.3.3.1 1 201310111528]
 	org.netbeans.core.io.ui/1 [1.23.1 201310111528]
 	org.jsoup [1.0 131229]
-	org.apache.httpclient [1.0 131229]
-	com.wooshcom.tester [1.0 131229]
+	org.apache.logging [1.0 131230]
+	org.apache.httpclient [1.0 131230]
+	com.wooshcom.tester [1.0 131230]
 INFO [org.netbeans.core.network.proxy.NetworkProxyReloader]: System network proxy resolver: Mac
 WARNING [org.netbeans.core.network.proxy.NetworkProxyReloader]: System network proxy reloading failed! Trying fallback resolver.
 INFO [org.netbeans.core.network.proxy.fallback.FallbackNetworkProxy]: Fallback system proxy resolver: no http_proxy variable found
@@ -92,7 +94,7 @@ Heap memory usage: initial 256.0MB maximum 3641.0MB
 Non heap memory usage: initial 23.4MB maximum 130.0MB
 Garbage collector: PS Scavenge (Collections=2 Total time spent=0s)
 Garbage collector: PS MarkSweep (Collections=0 Total time spent=0s)
-Classes: loaded=4567 total loaded=4567 unloaded 0
+Classes: loaded=4559 total loaded=4559 unloaded 0
 INFO [org.netbeans.core.ui.warmup.DiagnosticTask]: Total memory 17,179,869,184
 INFO [null]: Total physical memory 17,179,869,184
 WARNING [org.openide.filesystems.Ordering]: Not all children in Menu/Window/ marked with the position attribute: [com-wooshcom-tester-initTopComponent.shadow], but some are: [org-netbeans-core-io-ui-IOWindowAction.shadow, SwitchToRecentDocumentAction.shadow, Web, Tools, Separator3.instance, ConfigureWindow, org-netbeans-core-windows-actions-ResetWindowsAction.shadow, Separator4.instance, CloseWindowAction.shadow, CloseAllDocumentsAction.shadow, CloseAllButThisAction.shadow, DocumentsAction.shadow]
